@@ -1,4 +1,4 @@
 - 👋 Olá, eu sou **@davy123legal**.
 - 👀 Eu estou interessado em aprender e programar novas linguagens.
-- 👍 Meu email de contato é davydellalo@gmail.com
+- 👍 Meu email de contato é [email](davydellalo@gmail.com)
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
